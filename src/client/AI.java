@@ -1,6 +1,6 @@
 package client;
 
-import Game.*;
+import client.game.Game;
 
 public abstract class AI {
     

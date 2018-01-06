@@ -1,7 +1,7 @@
 package client;
 
-import Game.Game;
-import client.Team.TeamAI;
+import client.game.Game;
+import client.team.TeamAI;
 
 public class Client {
     

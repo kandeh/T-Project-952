@@ -1,6 +1,7 @@
-package client.Team;
+package client.team;
 
-import Game.*;
+import client.game.Rat;
+import client.game.Game;
 
 public class TeamAI extends client.AI {
 

@@ -1,4 +1,4 @@
-package Game;
+package client.game;
 
 public class Rat {
     
