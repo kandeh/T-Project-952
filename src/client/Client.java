@@ -41,7 +41,7 @@ public class Client {
     }
     
     public static void main(String[] args) {
-        System.out.println(Constants.Project.to_String());
+        System.out.println(Constants.Project.getInfo());
         System.out.println();
         new Client();
     }
